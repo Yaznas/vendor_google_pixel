@@ -99,7 +99,6 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     MarkupGoogle_v2 \
     SoundPickerPrebuilt_32000122 \
-    SettingsIntelligenceGooglePrebuilt \
     WeatherPixelPrebuilt_10004303 \
     Flipendo \
     SetupWizardPixelPrebuilt \

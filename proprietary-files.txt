@@ -93,7 +93,6 @@ product/media/audio/ui/WirelessChargingStarted.ogg
 product/app/MarkupGoogle_v2/MarkupGoogle_v2.apk;PRESIGNED
 product/app/SoundPickerPrebuilt_32000122/SoundPickerPrebuilt_32000122.apk;PRESIGNED;OVERRIDES=SoundPicker
 product/priv-app/WeatherPixelPrebuilt_10004303/WeatherPixelPrebuilt_10004303.apk;PRESIGNED
-product/priv-app/SettingsIntelligenceGooglePrebuilt/SettingsIntelligenceGooglePrebuilt.apk;PRESIGNED;OVERRIDES=SettingsIntelligence
 system_ext/app/Flipendo/Flipendo.apk
 system_ext/priv-app/SetupWizardPixelPrebuilt/SetupWizardPixelPrebuilt.apk;PRESIGNED
 
