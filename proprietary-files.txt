@@ -15,7 +15,7 @@ product/etc/sysconfig/preinstalled-packages-product-pixel-2018-and-newer.xml
 product/etc/sysconfig/preinstalled-packages-product-pixel-2019-and-newer.xml
 product/etc/sysconfig/preinstalled-packages-product-pixel-2022-and-newer.xml
 product/etc/sysconfig/preinstalled-packages-product-pixel-2023-and-newer.xml
-system_ext/etc/default-permissions/default-permissions_pixelweather.xml
+product/etc/default-permissions/default-permissions_pixelweather.xml
 system_ext/etc/permissions/privapp-permissions-google-se.xml
 
 # Sounds
@@ -91,11 +91,11 @@ product/media/audio/ui/WirelessChargingStarted.ogg
 
 # Prebuilts
 product/app/MarkupGoogle_v2/MarkupGoogle_v2.apk;PRESIGNED
-product/app/SoundPickerPrebuilt_32000122/SoundPickerPrebuilt_32000122.apk;PRESIGNED;OVERRIDES=SoundPicker
-product/priv-app/WeatherPixelPrebuilt_10004303/WeatherPixelPrebuilt_10004303.apk;PRESIGNED
+product/app/SoundPickerPrebuilt_33000062/SoundPickerPrebuilt_33000062.apk;PRESIGNED;OVERRIDES=SoundPicker
+product/priv-app/WeatherPixelPrebuilt_10006113/WeatherPixelPrebuilt_10006113.apk;PRESIGNED
 product/priv-app/SettingsIntelligenceGooglePrebuilt/SettingsIntelligenceGooglePrebuilt.apk;PRESIGNED;OVERRIDES=SettingsIntelligence
 system_ext/app/Flipendo/Flipendo.apk
-system_ext/priv-app/SetupWizardPixelPrebuilt/SetupWizardPixelPrebuilt.apk;PRESIGNED
+system_ext/priv-app/SetupWizardPixelPrebuilt_v770520761/SetupWizardPixelPrebuilt_v770520761.apk;PRESIGNED
 
 # Lockscreen clocks
 system_ext/priv-app/SystemUIClocks-BigNum/SystemUIClocks-BigNum.apk

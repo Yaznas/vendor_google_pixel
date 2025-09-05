@@ -21,9 +21,9 @@ android_app_import {
 }
 
 android_app_import {
-    name: "SoundPickerPrebuilt_32000122",
+    name: "SoundPickerPrebuilt_33000062",
     owner: "google",
-    apk: "proprietary/product/app/SoundPickerPrebuilt_32000122/SoundPickerPrebuilt_32000122.apk",
+    apk: "proprietary/product/app/SoundPickerPrebuilt_33000062/SoundPickerPrebuilt_33000062.apk",
     overrides: [
         "SoundPicker",
     ],
@@ -52,9 +52,9 @@ android_app_import {
 }
 
 android_app_import {
-    name: "WeatherPixelPrebuilt_10004303",
+    name: "WeatherPixelPrebuilt_10006113",
     owner: "google",
-    apk: "proprietary/product/priv-app/WeatherPixelPrebuilt_10004303/WeatherPixelPrebuilt_10004303.apk",
+    apk: "proprietary/product/priv-app/WeatherPixelPrebuilt_10006113/WeatherPixelPrebuilt_10006113.apk",
     preprocessed: true,
     presigned: true,
     dex_preopt: {
@@ -76,9 +76,9 @@ android_app_import {
 }
 
 android_app_import {
-    name: "SetupWizardPixelPrebuilt",
+    name: "SetupWizardPixelPrebuilt_v770520761",
     owner: "google",
-    apk: "proprietary/system_ext/priv-app/SetupWizardPixelPrebuilt/SetupWizardPixelPrebuilt.apk",
+    apk: "proprietary/system_ext/priv-app/SetupWizardPixelPrebuilt_v770520761/SetupWizardPixelPrebuilt_v770520761.apk",
     preprocessed: true,
     presigned: true,
     dex_preopt: {
